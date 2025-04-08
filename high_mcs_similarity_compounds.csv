@@ -1,0 +1,39 @@
+Compuesto_Aspidosperma,Smile_Aspidosperma,Compuesto_Epilepsia,Smile_Epilepsia,Similarity_MCS,MCS_NumAtoms
+Caproico (C6:0),CCCCCC(=O)O,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.8421052631578947,8
+Fenilacetato de etilo,CCOC(=O)CC1=CC=CC=C1,Gabapentina,C1CCC(CC1)(CC(=O)O)CN,0.8333333333333334,10
+Caproico (C6:0),CCCCCC(=O)O,Vigabatrina,C=CC(CCC(=O)O)N,0.8235294117647058,7
+Caproico (C6:0),CCCCCC(=O)O,Ácido Valproico,CCCC(CCC)C(=O)O,0.7777777777777778,7
+Hexanoato de etilo,CCCCCC(=O)OCC,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.7619047619047619,8
+Caprílico (C8:0),CCCCCCCC(=O)O,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.7619047619047619,8
+Hexanoato de etilo,CCCCCC(=O)OCC,Vigabatrina,C=CC(CCC(=O)O)N,0.7368421052631579,7
+Caprílico (C8:0),CCCCCCCC(=O)O,Vigabatrina,C=CC(CCC(=O)O)N,0.7368421052631579,7
+Heptanoato de etilo,CCCCCCC(=O)OCC,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.7272727272727273,8
+Caprílico (C8:0),CCCCCCCC(=O)O,Ácido Valproico,CCCC(CCC)C(=O)O,0.7,7
+Hexanoato de etilo,CCCCCC(=O)OCC,Ácido Valproico,CCCC(CCC)C(=O)O,0.7,7
+Heptanoato de etilo,CCCCCCC(=O)OCC,Vigabatrina,C=CC(CCC(=O)O)N,0.7,7
+Cáprico (C10:0),CCCCCCCCCC(=O)O,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.6956521739130435,8
+Octanoato de etilo,CCCCCCCC(=O)OCC,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.6956521739130435,8
+Fenilacetato de etilo,CCOC(=O)CC1=CC=CC=C1,Felbamato,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N,0.6896551724137931,10
+Octanoato de etilo,CCCCCCCC(=O)OCC,Vigabatrina,C=CC(CCC(=O)O)N,0.6666666666666666,7
+Undecanoico (C11:0),CCCCCCCCCCC(=O)O,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.6666666666666666,8
+Cáprico (C10:0),CCCCCCCCCC(=O)O,Vigabatrina,C=CC(CCC(=O)O)N,0.6666666666666666,7
+Caprílico (C8:0),CCCCCCCC(=O)O,Valproato de sodio,CCCC(CCC)C(=O)[O-].[Na+],0.6666666666666666,7
+Nonanoato de etilo,CCCCCCCCC(=O)OCC,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.6666666666666666,8
+Heptanoato de etilo,CCCCCCC(=O)OCC,Ácido Valproico,CCCC(CCC)C(=O)O,0.6666666666666666,7
+trans-Anetol,C/C=C/C1=CC=C(C=C1)OC,Stiripentol,CC(C)(C)C(/C=C/C1=CC2=C(C=C1)OCO2)O,0.6428571428571429,11
+Láurico (C12:0),CCCCCCCCCCCC(=O)O,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.64,8
+Nonanoato de etilo,CCCCCCCCC(=O)OCC,Vigabatrina,C=CC(CCC(=O)O)N,0.6363636363636364,7
+Undecanoico (C11:0),CCCCCCCCCCC(=O)O,Vigabatrina,C=CC(CCC(=O)O)N,0.6363636363636364,7
+Octanoato de etilo,CCCCCCCC(=O)OCC,Ácido Valproico,CCCC(CCC)C(=O)O,0.6363636363636364,7
+Heptanoato de etilo,CCCCCCC(=O)OCC,Valproato de sodio,CCCC(CCC)C(=O)[O-].[Na+],0.6363636363636364,7
+Cáprico (C10:0),CCCCCCCCCC(=O)O,Ácido Valproico,CCCC(CCC)C(=O)O,0.6363636363636364,7
+Caproico (C6:0),CCCCCC(=O)O,Valproato de sodio,CCCC(CCC)C(=O)[O-].[Na+],0.631578947368421,7
+Tridecanoico (C13:0),CCCCCCCCCCCCC(=O)O,Pregabalina,CC(C)C[C@@H](CC(=O)O)CN,0.6153846153846154,8
+Cáprico (C10:0),CCCCCCCCCC(=O)O,Valproato de sodio,CCCC(CCC)C(=O)[O-].[Na+],0.6086956521739131,7
+Undecanoico (C11:0),CCCCCCCCCCC(=O)O,Ácido Valproico,CCCC(CCC)C(=O)O,0.6086956521739131,7
+Nonanoato de etilo,CCCCCCCCC(=O)OCC,Ácido Valproico,CCCC(CCC)C(=O)O,0.6086956521739131,7
+trans-Anetol,C/C=C/C1=CC=C(C=C1)OC,Gabapentina,C1CCC(CC1)(CC(=O)O)CN,0.6086956521739131,7
+Láurico (C12:0),CCCCCCCCCCCC(=O)O,Vigabatrina,C=CC(CCC(=O)O)N,0.6086956521739131,7
+Octanoato de etilo,CCCCCCCC(=O)OCC,Valproato de sodio,CCCC(CCC)C(=O)[O-].[Na+],0.6086956521739131,7
+Alfa-yangleno,CC1=CCC2C3C1[C@]2(CCC3C(C)C)C,Carbamazepina,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,0.6060606060606061,12
+Alfa-Copaene,CC1=CCC2C3C1C2(CCC3C(C)C)C,Carbamazepina,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,0.6060606060606061,12
